@@ -1,4 +1,5 @@
 SEO Checklist
+
 Hello! Welcome to my GitHub page.
 In this repository you will find a template for a SEO checklist.
 
